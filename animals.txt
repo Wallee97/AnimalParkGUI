@@ -1,0 +1,6 @@
+Andreas, Elephant, 7, M
+Bob, Panther, 57, M
+Bella, Giraffe, 3, F
+Greg, Tiger, 7, M
+Ben, Tiger, 22, F
+Älg, Tiger, 45, F
